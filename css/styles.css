@@ -1,0 +1,11 @@
+.current-balance {
+  background: #fff;
+  border: 1px solid #090909;
+  border-radius: 4px;
+  height: 100%;
+}
+
+.current-balance p {
+  font-size: 40px;
+  text-align: center;
+}
